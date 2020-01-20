@@ -1,0 +1,144 @@
+﻿body,html {
+    margin: 0px;
+    padding: 0px;
+
+
+
+}
+
+.Cabecalho{
+    position: relative;
+    overflow: hidden;
+    margin-top: auto;
+    display:block;
+	list-style:none;
+	width:100%;
+    background: #2c3e50;
+    -webkit-box-shadow: 0px 0px 10px #999 inset;
+	   -moz-box-shadow: 0px 0px 10px #999 inset; 
+		    box-shadow: 0px 0px 0px #999 ;
+}
+
+.Principal {
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+.Menu {
+ 
+    max-width: 250px;
+    position: relative;
+    width: 100%;
+    background: #2c3e50;
+    float: left;
+    height: 600px;
+}
+
+.Menu ul{
+       -webkit-box-shadow: 0px 1px 1px  #ceccdb inset;
+	   -moz-box-shadow: 0px 1px 1px  #ceccdb inset; 
+		    box-shadow: 0px 1px 1px  #ceccdb inset;
+    width:99%;
+    padding-left:1px;
+    float: left;
+    position: relative;
+    list-style: none;
+}
+
+ .Menu ul li{
+	  
+	text-align:center;
+ }
+ .Menu a{
+     text-align:left;
+	padding: 15px;
+	display: block;
+	text-decoration: none;
+	background-color: #2c3e50;
+	display:block;
+	color: black;
+	
+ }
+
+ .Menu a:hover{	
+	background: #415161;
+	text-decoration:none;
+}
+
+ .Conteudo{
+     background: #fafafa;
+        margin-left: -80px;
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+    
+    
+ }
+ 
+h3{
+     margin-left: 20px;
+ }
+
+ .Titulo{
+    background: #fafafa;
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+   margin-left:20px;
+   
+
+ }
+  #Label1{
+      margin-left:20px;
+  }
+
+  .Conteudo-Dentro{
+      overflow: hidden;
+      margin: 0 auto;
+      margin-left: 20px;
+      margin-right: 20px;
+      display: inline-flex;
+      width:-webkit-fill-available;
+  }
+
+.bttAdicionarCliente{
+     height: 40px;
+     border-radius: 4px;
+    
+ }
+
+.TextBoxPesquisar{
+    
+    height: 33px;
+   width: -webkit-fill-available;
+   margin: 0 0.5%
+}
+
+.bttPesquisar{
+    background: #2c3e50;
+    height: 40px;
+    border-radius: 4px;
+    float: left;
+}
+.DivExternaTextBox{
+
+margin: 2%;
+
+display: inline-flex;
+
+width: -webkit-fill-available;
+}
+.DivInternaTextbOX{
+
+margin: 0.5%;
+
+width: -webkit-fill-available;
+}
+.textBoxNegocio{
+    width: -webkit-fill-available;
+    min-width: 5%;
+}
+.lblNegocio{
+
+}

@@ -1,0 +1,12 @@
+C:\Users\Desktop\Documents\Visual Studio 2013\Projects\GestaoVendasWeb\GestaoVendasWeb\bin\GestaoVendasWeb.dll.config
+C:\Users\Desktop\Documents\Visual Studio 2013\Projects\GestaoVendasWeb\GestaoVendasWeb\bin\GestaoVendasWeb.dll
+C:\Users\Desktop\Documents\Visual Studio 2013\Projects\GestaoVendasWeb\GestaoVendasWeb\bin\GestaoVendasWeb.pdb
+C:\Users\Desktop\Documents\Visual Studio 2013\Projects\GestaoVendasWeb\GestaoVendasWeb\obj\Debug\GestaoVendasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Desktop\Documents\Visual Studio 2013\Projects\GestaoVendasWeb\GestaoVendasWeb\obj\Debug\GestaoVendasWeb.dll
+C:\Users\Desktop\Documents\Visual Studio 2013\Projects\GestaoVendasWeb\GestaoVendasWeb\obj\Debug\GestaoVendasWeb.pdb
+C:\Users\jpbra\Desktop\GestaoVendasWeb\GestaoVendasWeb\bin\GestaoVendasWeb.dll.config
+C:\Users\jpbra\Desktop\GestaoVendasWeb\GestaoVendasWeb\bin\GestaoVendasWeb.dll
+C:\Users\jpbra\Desktop\GestaoVendasWeb\GestaoVendasWeb\bin\GestaoVendasWeb.pdb
+C:\Users\jpbra\Desktop\GestaoVendasWeb\GestaoVendasWeb\obj\Debug\GestaoVendasWeb.csprojResolveAssemblyReference.cache
+C:\Users\jpbra\Desktop\GestaoVendasWeb\GestaoVendasWeb\obj\Debug\GestaoVendasWeb.dll
+C:\Users\jpbra\Desktop\GestaoVendasWeb\GestaoVendasWeb\obj\Debug\GestaoVendasWeb.pdb
